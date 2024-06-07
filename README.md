@@ -1,8 +1,5 @@
 ## 概述
-**hyperf-taobao-tmc**是基于**Hyperf框架**的**，处理。
-
-## 使用场景
-[淘宝消息服务 TMC](https://open.taobao.com/doc.htm?docId=101663&docType=1) 的 PHP 版本
+[淘宝消息服务 TMC](https://open.taobao.com/doc.htm?docId=101663&docType=1) 的 PHP 版本，是基于 Hyperf 框架实现。
 
 ## 特性
 - 基于 hyperf 框架
@@ -84,7 +81,7 @@ return [
 
 ## 使用
 
-#### 1、创建一个 handle 类，并实现 MessageHandlerInterface
+#### 创建一个 handle 类，并实现 MessageHandlerInterface
 
 ```php
 <?php
