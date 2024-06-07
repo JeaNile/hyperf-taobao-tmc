@@ -1,0 +1,7 @@
+.github/
+.idea/
+.git/
+vendor/
+.php-cs-fixer.php
+*.lock
+phpstan.neon
